@@ -10,17 +10,17 @@ Ans 4 Five Commonly Used String Methods in Python
 
 
 Ans 7 Artificial Intelligence (AI) is a branch of computer science that enables machines and computers to perform tasks that normally require human intelligence
-importance of AI
-1 Automates repetitive tasks.
-2 Improves efficiency and productivity.
-3 Helps in faster decision-making.
-4 Reduces human errors.
-5 Enhances customer experience.
-Real-Life Applications of AI
-1 Chatbots and Virtual Assistants (ChatGPT, Alexa, Siri)
-2 Recommendation Systems (Netflix, YouTube, Amazon)
-3 Self-Driving Cars
-4 Medical Diagnosis and Healthcare
+ importance of AI
+ 1 Automates repetitive tasks.
+ 2 Improves efficiency and productivity.
+ 3 Helps in faster decision-making.
+ 4 Reduces human errors.
+ 5 Enhances customer experience.
+ Real-Life Applications of AI
+ 1 Chatbots and Virtual Assistants (ChatGPT, Alexa, Siri)
+ 2 Recommendation Systems (Netflix, YouTube, Amazon)
+ 3 Self-Driving Cars
+ 4 Medical Diagnosis and Healthcare
 
 
 Ans 8 examples of AI or not 
